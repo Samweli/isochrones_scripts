@@ -1,3 +1,7 @@
+# This script aims to update the final.csv file 
+# this file can then be used to show infant mortality
+# rate on a map (eg. a heatmap for infant mortality rate)
+
 import pandas
 
 count = 1
